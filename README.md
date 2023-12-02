@@ -1,4 +1,4 @@
-# -
+# 高専４年前期の研究
 高専４年次の研究で作成したプログラム一覧です！
 
 Webページは　http://sushin.php.xdomain.jp/sushi/home.html　でご覧になれます！
